@@ -32,9 +32,8 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ## License
 
-This project is licensed under the MIT License:
+This project is licensed under the [MIT License](LICENSE).
 
-MIT License (LICENSE).
 
 ## Contact
 
