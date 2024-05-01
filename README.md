@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Console Game
 
-This is a simple console-based Tic-Tac-Toe game implemented in Java. You can play against an AI opponent with different difficulty levels.
+This is a simple console-based Tic-Tac-Toe game implemented in Java. You can play against a computer opponent with different difficulty levels.
 
 ## How to Play
 
